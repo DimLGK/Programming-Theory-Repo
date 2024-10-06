@@ -356,7 +356,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.43f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Animal.cs"
+"Assets/Scripts/Chicken.cs"
+"Assets/Scripts/Dog.cs"
+"Assets/Scripts/Horse.cs"
+"Assets/Scripts/Kitty.cs"
 "Assets/Scripts/MainManager.cs"
+"Assets/Scripts/Mammal.cs"
 "Assets/Scripts/TitleManager.cs"
 -langversion:9.0
 /deterministic
